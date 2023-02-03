@@ -2,7 +2,7 @@ import io.spring.gradle.dependencymanagement.dsl.DependencyManagementExtension
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    val kotlinVersion = "1.4.21"
+    val kotlinVersion = "1.8.10"
     val springVersion = "2.4.1"
     val springDependencyManagementVersion = "1.0.10.RELEASE"
 
