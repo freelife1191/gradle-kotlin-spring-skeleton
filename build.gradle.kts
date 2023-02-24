@@ -3,7 +3,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
     val kotlinVersion = "1.4.21"
-    val springVersion = "2.4.1"
+    val springVersion = "3.0.3"
     val springDependencyManagementVersion = "1.0.10.RELEASE"
 
     // IntelliJ
